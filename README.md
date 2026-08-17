@@ -85,17 +85,13 @@ are treated as vegetation for the area-estimation analysis.
 ```text
 multi-year-satellite-image-analysis/
 │
-├── notebooks/
-│   └── Multi_Year_Satellite_Image_Analysis.ipynb
+├── Multi_Year_Satellite_Image_Analysis.ipynb
 │
-├── data/
-│   └── README.md
+├── data_README.md
 │
-├── outputs/
-│   └── README.md
+├── output_README.md
 │
-├── src/
-│   └── README.md
+├── src_README.md
 │
 ├── .gitignore
 ├── requirements.txt
